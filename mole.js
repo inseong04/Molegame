@@ -91,7 +91,7 @@ function play_audio(obj){
 }
 function game_over(){
     alert("목숨을 모두 잃었습니다... \n당신의 점수는 "+score+"점입니다\n"+"초기화면으로 이동합니다!");
-    window.location.href="index.html";
+    window.location.href="first.html";
 }
 
 var c_str_heart = [];
